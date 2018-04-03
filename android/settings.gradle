@@ -1,0 +1,3 @@
+rootProject.name = 'zd112_rn'
+
+include ':app'
